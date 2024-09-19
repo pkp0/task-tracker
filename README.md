@@ -11,13 +11,13 @@
 1. **Клонуйте репозиторій:**
 
     ```bash
-    git clone https://github.com/pkp0/task.git
+    git clone https://github.com/pkp0/task-tracker.git
     ```
 
 2. **Перейдіть до директорії проекту:**
 
     ```bash
-    cd task
+    cd task-tracker
     ```
 
 3. **Встановіть залежності:**
